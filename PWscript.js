@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var typed = new Typed(".text", {
         strings: ['hey, <span style="color: var(--main-color)">it\'s Sanjana!</span>'],
         typeSpeed: 90,
-        loop: true
+        loop: false
     });
 
     //Experience Tabs
